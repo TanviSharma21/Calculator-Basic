@@ -28,11 +28,3 @@ A simple and user-friendly calculator built using **Java Swing**. This GUI-based
 - **IDE Recommendation**: VS Code, IntelliJ IDEA, or Eclipse
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone this Repository
-
-```bash
-git clone https://github.com/TanviSharma21/java-swing-calculator.git
-cd java-swing-calculator
